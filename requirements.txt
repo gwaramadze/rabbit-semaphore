@@ -1,2 +1,3 @@
+PyYAML==3.11
 requests==2.2.1
 -e git://github.com/pika/pika@c041c80a9915bbbe58bec648820ca890f965853e#egg=pika-dev
